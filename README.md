@@ -11,7 +11,7 @@ The LLM must use only sources from the last 7 days, or explicitly switch to a *L
 
 ## How to use (2 minutes)
 1) Open any LLM (ChatGPT, Claude, Gemini, etc.)
-2) Copy-paste the full content of `one-paste.txt` into the chat and send it.
+2) Copy-paste the full content of `one-paste.txt`,  into the chat and send it.
 3) Answer the 4 profile questions.
 4) The TSV file `project_tasks_prioritized.tsv` is already provided with the paste. **Do not re-upload or re-paste it.**
    - Only if your LLM truly cannot access attached files: then paste the full TSV contents when (and only when) it asks.
@@ -30,3 +30,5 @@ If you rename columns, update `one-paste.txt` and `systemprompt.txt` accordingly
 
 ## Updating
 Keep `project_tasks_prioritized.tsv` updated regularly. The LLM must only pick tasks that exist in the TSV.
+
+If the TSV contains no link for your report, you can send it to question86@protonmail.com
