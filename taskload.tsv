@@ -1,0 +1,363 @@
+Project	Involved	Department	Status	Language	GitHub
+Metamask Integration	"""Allison """	Wallets	Roadblock	JS/TS	https://github.com/nautls/ergsnap
+DexyGold	kushti, code-for-us, scalahub	Ecosystem	In progress		
+TrustWallet integration	bez	Wallets	Roadblock		
+Rosen	mhs, Armeanio, CW, Mohammed Kermani, Fateme Rahmani, Zargarzadeh, vorujack, SepherGanji	Ecosystem	Active	JS/TS, Scala	
+Light SPV Wallet		Wallets	Roadblock		
+Unifying payments standard	"""Allison """	Wallets	Inbox		
+EIP process improvement	"Glasgow, ""Allison """	EIP	Inbox		
+website maintenance	Glasgow, Dmitry Usov	Websites	In progress		
+Ledger	"""Allison "", Glasgow"	Wallets	Done	C	https://github.com/tesseract-one/ledger-app-ergo/issues/11
+Tangem	Glasgow	Wallets	Roadblock		
+livecoinwatch		Integrations	In progress		
+Koinly	Noah	Integrations	Done		
+DeBank	bez	Editorial	Done		
+Artemis	Glasgow	Integrations	Done		
+GetBlock.io	Glasgow	Integrations	Roadblock		
+KeyStone Wallet		Wallets	In progress		
+WalletInvestor	Glasgow	Integrations	Awaiting Response		
+dexscreener		Integrations	Awaiting Response		
+tokenterminal	Glasgow	Integrations	Roadblock		
+Glassnode	wombo	Integrations	K.B		
+Messari	wombo	Integrations	K.B		
+pokt	wombo	Integrations	Roadblock		
+footprint network	wombo	Integrations	Roadblock		
+intotheblock	Glasgow	Integrations	Awaiting Response		
+defiprime		Integrations	Roadblock		
+Coinranking	wombo	Integrations	Needs Check		
+Exodus		Wallets	Roadblock		
+Hostinger		Integrations	Inbox		
+Chainalysis	Glasgow	Integrations	Awaiting Response		
+ELLIPAL		Wallets			
+Coinmarketcap	Glasgow, qx	Integrations	In progress		
+Bubblemaps Integration	wombo	Integrations	Roadblock		
+Spectrum Finance Dex on CMC		Integrations	Awaiting Response		
+Dune Analytics		Integrations	Awaiting Response		
+Coinfirm	Glasgow	Integrations	Roadblock		
+CryptoStats		Integrations	Needs Check		
+dAppRadar		Integrations	Inbox		
+Nansen		Integrations	Needs Check		
+Alchemy dApp Store		Integrations	Needs Check		
+Bitget Wallet		Wallets			
+Defiprime		Integrations	K.B		
+milkroad	bez	Integrations	Inbox		
+tokeninsight		Integrations	Inbox		
+WalletConnect		Integrations	Needs Check		
+Defillama	wombo	Integrations	In progress		
+Bitrefil	Glasgow	Integrations	Awaiting Response		
+Ergo Wallet (Terminus)	morphic, MrStahlfelge	Wallets	In progress		
+CruxFinance	Noah, Luivatra, Marty	Ecosystem	Active	Scala, Rust, JS/TS	https://github.com/cruxfinance
+GuapSwap	lgd	Ecosystem	Active		
+Lilium 	lgd	Ecosystem	Active	Scala, JS/TS, Python	https://github.com/LiliumErgo
+ErgOne	Giufa	Ecosystem	Active		
+Ergopad	Luivatra, Marty	Ecosystem	Active		
+TabbyPOS	lee	Ecosystem	Active		
+Azorus	curbsideprofit	Ecosystem	Paused		
+Cyberiad		Ecosystem	Inbox		
+SigmaStamp		Ecosystem	Paused	JS/TS	https://github.com/sigmastamp
+SigmaGallery		Ecosystem	Needs Check		
+ErgAsia		Ecosystem	Needs Check		
+SERV Protocol		Ecosystem	Needs Check		
+BlitzTCG	lgd, LowKeyNerd	Ecosystem	Active		
+CyberVerse	pxl	Ecosystem	Active		
+Grand Gambit		Ecosystem	Active		
+Paideia	Luivatra, noob77777	Ecosystem	Active		
+Bitdomains	c8	Ecosystem	Paused		
+EXLE	Magic, Chris Ray	Ecosystem	In progress		
+Palmyra	MGpai, lgd	Ecosystem	Active		
+Analog-Ergo	deathgripson	Ecosystem	Active		
+Machina Finance	"""Allison """	Ecosystem	Active	JS/TS	https://github.com/nautls/machina-finance
+ChainCash	kushti	Ecosystem	Active		
+GluonGold	Bruno	Ecosystem	Active		
+Lithos	cheeseenthusiast	Ecosystem	Active		
+duckpools	Krasavice	Ecosystem	Active		
+single-tx-swap	danza	Ecosystem	Active		
+SigmaFi	"""Allison "", cheeseenthusiast"	Ecosystem	Active		
+Spectrum	Ilya Oskin	Ecosystem	Active		
+Pheonix Finance	MGpai, lgd	Ecosystem	Active		
+Hodlcoin	Pulsarz	Ecosystem	Active		
+SigmaO	haileypdll	Ecosystem	Active		
+AuctionHouse	anon-real	Ecosystem	Active		
+SkyHarbor	TanBeige	Ecosystem	Active		
+ErgoRaffle	mhs, Fateme Rahmani, Zargarzadeh	Ecosystem	Active		
+SigmaUSD	anon-real	Ecosystem	Active		
+SigmaJoin	scalahub	Ecosystem	Inbox		
+ErgoMixer	anon2020s, aragogi	Ecosystem	Active		
+ErgoNation		Ecosystem	Paused		
+Hodlbox	c8	Ecosystem	Active		
+Blockly		Integrations	Inbox		
+"EIP0044 - encrypted NFT media and secret validation using ZKP and a 'truthy' output box.
+"		EIP	Needs Check		https://github.com/TremendouslyHighFrequency/eips/blob/master/eip-0044.md
+"EIP-0045: Redistribution Smart Contract for claimed Storage Fees
+"		EIP	Needs Check		https://github.com/ergoplatform/eips/pull/93
+"EIP-43: Reduced Transaction
+"		EIP	Done		https://github.com/ergoplatform/eips/pull/91
+EIP-0008: New Transaction Validation with Just-In-Time Costing	morphic	EIP	Needs Check		
+EIP-44: Arbitrary data signing	"""Allison """	EIP	Done		https://github.com/ergoplatform/eips/pull/92
+EIP-XX: Special Addresses	"""Allison """	EIP	Needs Check		
+EIP-0011: Distributed Signatures		EIP			
+DAO for infrastructure and core development	kushti	core	In progress		
+ERGOHACK 8?	Angie Har	Events, Editorial	Inbox		
+Netnotes		Ecosystem	Active	Java	https://github.com/networkspore/Netnotes-Linux/releases/tag/v0.2.0c-beta
+Reputation System	jossemii	Ecosystem	Active		
+ErgCamel	LiquidPhase	Tooling	Active	JS/TS	https://github.com/TremendouslyHighFrequency/ErgCaml
+schnorr sig schema implementation	"""Allison """	Tooling		JS/TS	https://github.com/nautls/ergsnap/blob/main/packages/snap/src/ergo/ergoSchnorr.ts
+KuPyBot	FlyingPig	Tooling	Active	Python	
+Metadata	"Luivatra, ""Allison """	core			
+CruxHarmony	Luivatra	Ecosystem	Active	Rust	https://github.com/cruxfinance/crux-harmony
+COMET	MGpai	Ecosystem	Active		
+Bitmasks	c8	Ecosystem	Active		
+docs.ergoplatform.org	Glasgow	Websites	In progress		
+ergcube	HQ	Ecosystem	Active		
+scrypto	Colby Cellador	Tooling		Scala	https://github.com/input-output-hk/scrypto/
+sigma-rust	soysor, greenhat	SDKs	Active	Rust	https://github.com/ergoplatform/sigma-rust/
+sigmastate-interpreter	morphic	Tooling		Scala, ErgoScript	https://github.com/ScorexFoundation/sigmastate-interpreter
+AppKit	morphic	SDKs	Active	Java, Scala	https://github.com/ergoplatform/ergo-appkit
+Fleet	"""Allison "", SepherGanji"	SDKs	Active	JS/TS	https://github.com/fleet-sdk
+FleetSharp	Pulsarz	SDKs	Active	C#	https://docs.ergoplatform.com/dev/stack/fleetsharp/
+Reference Client (Node)	kushti, Colby Cellador	Core Infrastructure		Scala	https://github.com/ergoplatform/ergo
+SAFEW	haileypdll	Wallets	Active	JS/TS	https://github.com/ThierryM1212/SAFEW
+SigCan Prune	Glasgow	Sigmanauts	In progress		
+DAO Legal Research		Sigmanauts	Inbox		
+Mission Statement		Sigmanauts	Needs Check		
+Market Maker Management	qx, cannon	Sigmanauts	In progress		
+Paideia Onboarding		Sigmanauts	In progress		
+Brazil Meetup	"""Allison "", Marcelo"	Events, Editorial	Inbox		
+Zealy	lexymon	Sigmanauts	Backburner		
+Sig-Mining Pool	qx, cannon	Sigmanauts	In progress		
+Twitter Marketing	qx	Sigmanauts	In progress		
+Fireblocks	qx, Armeanio	Integrations	Awaiting Response		
+Nautilus	"""Allison """	Wallets	Active	JS/TS	https://github.com/nautls/nautilus-wallet
+Minotaur	mhs, vorujack	Wallets	Active	JS/TS	https://github.com/minotaur-ergo/minotaur-wallet
+Auction Coin	anon-real	Ecosystem	Active		https://auctioncoin.app/
+ergpy	MGpai	SDKs	Paused	Python	https://github.com/mgpai22/ergpy
+Mosaik	MrStahlfelge	SDKs	Paused	Java	https://github.com/MrStahlfelge/mosaik
+headless dapp frmwork	Robert Kornacki, greenhat, David Przybilla	SDKs	Backburner	Rust	https://github.com/ergoplatform/ergo-headless-dapp-framework
+JSON dApp Environment	scalahub	SDKs	Paused	JSON	https://github.com/scalahub/jde
+RustKit	Zack Balbin	SDKs	Backburner	Rust	https://crates.io/crates/ergo-rustkit
+ErgoSummit	Angie Har	Events, Editorial			
+explorer	Dmitry Usov	Core Infrastructure			https://explorer.ergoplatform.com/
+erg-explorer	Aco Smrkas	Core Infrastructure		JS/TS	https://github.com/AcoSmrkas/ErgExplorer
+sigmaspace	Alesfatalis	Tooling			https://sigmaspace.io/
+Kiosk	scalahub	Tooling	Archived	Scala	https://github.com/scalahub/Kiosk
+BlobsTopia	haileypdll	Ecosystem	Done		
+ErgoUtils	anon-real	Tooling		JS/TS	https://github.com/anon-real/ErgoUtils
+off-the-grid	Telefragged	Tooling		Rust	https://github.com/Telefragged/off-the-grid/
+Plasma Toolkit	cheeseenthusiast	Tooling		Scala	https://github.com/K-Singh/Plasma-Toolkit
+ergo-lib-go	Alesfatalis	Tooling	Active	C, Go	https://github.com/sigmaspace-io/ergo-lib-go
+ergo-handshake	techraed	Tooling		Rust	https://github.com/techraed/ergo-handshake
+ergo-setup	abchris	Tooling		Dockerfile	https://github.com/reqlez/ergo-setup
+uexplorer	pragmaxim	Tooling		Scala	https://github.com/pragmaxim/ergo-uexplorer
+tokenjay	MrStahlfelge	Tooling			https://tokenjay.app/
+Yet Another Airdrop Tool	FlyingPig	Tooling		Python	https://github.com/FlyingPig69/YAAT/
+Rust Benchmarks	morphic	Tooling		Rust	https://github.com/aslesarenko/rust-benchmarks
+mobilERG	ladopixel	Tooling		Python	https://github.com/ladopixel/mobilERG
+tERGminal	ladopixel	Tooling		Python	https://github.com/ladopixel/tERGminal
+scala-play-next-ergo	kii	Tooling		Scala	https://github.com/kii-dot/scala-play-next-ergo
+rosetta-ergo	soysor	Tooling		Go	https://github.com/ross-weir/rosetta-ergo
+ergo-asset-locker	mowreez	Tooling		JS/TS	https://github.com/mowreez/ergo-asset-locker
+ergo-assembler	anon-real	Tooling		Scala	https://github.com/anon-real/ergo-assembler
+@Ergo_Platform content planning		Editorial	Inbox		
+GraphQL	"""Allison "", SepherGanji"	Core Infrastructure		JS/TS	https://github.com/nautls/ergo-graphql
+ergo-scala-skeleton-app	David Przybilla	Tooling		Scala	https://github.com/dav009/ergo-scala-skeleton-app
+GetBlok	cheeseenthusiast	Ecosystem	Paused		
+ergo-puppet	David Przybilla	Tooling		Scala	https://github.com/dav009/ergo-puppet
+Satergo	Aberg	Wallets		Java	https://t.me/Satergo
+nft-market	Marty, noob77777	Ecosystem	In progress	JS/TS	https://github.com/ergo-pad/nft-market
+Ergonomes	TanBeige	Ecosystem	Active		
+Ergosaurs	TanBeige	Ecosystem	Active		
+ergo-web-template	c8, Glasgow	Tooling		JS/TS	https://github.com/SavonarolaLabs/ergo-web-template
+https://escript.online/	c8	Tooling		JS/TS	https://github.com/SavonarolaLabs/escript-online
+ergobay-org	c8, xhabit	Tooling		JS/TS	https://github.com/SavonarolaLabs/ergobay-org
+Ergo Off-Chain Bot Template	MGpai	Tooling		Scala	https://github.com/mgpai22/Ergo-OffChain-Bot-Template
+ergo-js-template	anon-real	Tooling		JS/TS	https://github.com/anon-real/ergo-js-template
+Ergo Contract Templates (EIP5)	morphic, soysor	Tooling		ErgoScript	https://github.com/ergoplatform/eips/blob/master/eip-0005.md
+ErgoSphere	jellymlg	Tooling		Java	https://github.com/jellymlg/ErgoSphere
+ergo-vanitygen	jellymlg	Tooling		Scala	https://github.com/jellymlg/ergo-vanitygen
+Dexhunter	Noah	Integrations	Awaiting Response		
+coingecko	Glasgow	Integrations	In progress		
+ergo.watch	abchris	Websites			
+ergonaut.space	Glasgow	Websites			
+ergcube	HQ	Websites			
+danaides	Luivatra, noob77777, Marty	Tooling		Python	https://github.com/ergopad/danaides
+wallet.plutomonkey.com		Websites			
+scastie		Websites			
+sigma-rust-mini 	morphic	Tooling		Rust	https://github.com/aslesarenko/sigma-rust-mini
+VSCode ErgoScript Language Support	lgd	Tooling			https://github.com/GuapSwap/vscode-ergoscript-language-support
+"ergo-indexer-rust
+"	darkdrag00nv2	Tooling		Rust	https://github.com/darkdrag00nv2/ergo-indexer-rust
+Strainer	David Przybilla	Tooling		Rust	https://github.com/dav009/strainer
+"Ergo Playground
+"	jaysee260	Tooling		Scala	https://github.com/jaysee260/ergo-playground
+"ergo-audit-backend
+"	jlsachse	Tooling		Java	https://github.com/jlsachse/ergo-audit-backend
+"ergo-simple-addresses
+"	kushti	Tooling		Java	https://github.com/kushti/ergo-simple-addresses
+"schedulERG
+"	ladopixel	Tooling		Python	https://github.com/ladopixel/schedulERG
+"ergo-synced-node
+"	MGpai	Tooling		Python, Shell	https://github.com/mgpai22/ergo-synced-node
+flowcardLib	lgd	Tooling		ErgoScript	https://github.com/lucagdangelo/flowcardLib
+ergoexplorer-websockets-demo	noob77777	Tooling		Python	https://github.com/noob77777/ergoexplorer-websockets-demo
+ergo-uexplorer	pragmaxim	Tooling		Scala	https://github.com/pragmaxim/ergo-uexplorer
+ergo-portable	soysor	Tooling		Shell	https://github.com/ross-weir/ergo-portable
+go-ergo-example	soysor	Tooling		Go, C	https://github.com/ross-weir/go-ergo-example
+oracle-pool-bootstrap	scalahub	Tooling		Scala	https://github.com/scalahub/oracle-pool-bootstrap
+mosaik-demo-tokenburn	MrStahlfelge	Tooling		Kotlin	https://github.com/MrStahlfelge/mosaik-demo-tokenburn
+trade-in	lgd	Tooling		Scala, JS/TS	https://github.com/lucagdangelo/trade-in
+"yoroi-ergo-wallet-recover
+"	Aberg	Tooling		Java	https://github.com/satsen/yoroi-ergo-wallet-recover
+ErgoToolsBot	ladopixel	Tooling		Python	https://github.com/ladopixel/ErgoToolsBot
+oracle-core	soysor	Core Infrastructure		Rust	https://github.com/ergoplatform/oracle-core
+ergoscript-by-example		Tooling		ErgoScript	https://github.com/ergoplatform/ergoscript-by-example
+ergo-lib-wasm	soysor	Tooling		JS/TS	https://github.com/ergoplatform/ergo-lib-wasm
+ergo-node-interface-rust	greenhat, soysor, Zack Balbin, David Przybilla	Tooling		Rust	https://github.com/ergoplatform/ergo-node-interface-rust
+"Ergo Playgrounds
+"	greenhat, code-for-us, kushti, Luivatra	Tooling		Scala	https://github.com/ergoplatform/ergo-playgrounds
+edge	kii	Tooling		Scala	https://github.com/Ergo-Lend/edge
+Ergo-play-boilerplate	kii	Tooling		Scala	https://github.com/kii-dot/ergo-play-boilerplate 
+ErgoScript-Developer-Course		Tooling		ErgoScript	https://github.com/DeCo-Education/ErgoScript-Developer-Course
+Address Generation Demo	soysor	Tooling		Rust	https://github.com/ergoplatform/sigma-rust/tree/develop/bindings/ergo-lib-wasm/examples/address-generation-demo
+Create Transaction Demo	soysor	Tooling		Rust	https://github.com/ergoplatform/sigma-rust/tree/develop/bindings/ergo-lib-wasm/examples/create-transaction-demo
+contract-testing	anon-real	Tooling, Testing		Scala	https://github.com/anon-real/contract-testing
+ergo-utilities-rust	Robert Kornacki	Tooling		Rust	https://github.com/robkorn/ergo-utilities-rust/
+ergo-monitoring	SabaunT	Tooling		Rust	https://github.com/SabaunT/ergo-monitoring
+Rust AVL Tree		Tooling		Rust	
+Ergonnection	Aberg	Tooling		Java	https://github.com/Satergo/Ergonnection/
+transaction-builder	haileypdll	Tooling		JS/TS	https://github.com/ThierryM1212/transaction-builder/
+ergoscript-compiler		Tooling		Scala	https://github.com/ergoplatform/ergoscript-compiler/
+ergo-castanet	iandebeer	Tooling		Dhall, Scala	https://github.com/iandebeer/ergo-castanet
+ErgoTree pseudo-code	soysor	Tooling		Rust	https://github.com/ross-weir/ergo-script-re/tree/main/ergotree-pseudo-code
+ergo-appkit-examples	morphic	Tooling		C, Scala, Java, JS/TS, Python, Ruby	https://github.com/aslesarenko/ergo-appkit-examples
+SchnorrSpec	scalahub	Tooling		Scala	https://github.com/ergoplatform/ergo-jde/blob/main/kiosk/src/test/scala/kiosk/schnorr/SchnorrSpec.scala
+"ergo-faucet
+"	Zargarzadeh, mhs	Tooling		Scala	https://github.com/zargarzadehm/ergo-faucet
+"more-scala-sdk
+"	noob77777	Tooling	Paused	Scala	https://github.com/ergopad/more-scala-sdk
+onchain-notifications-service	noob77777	Tooling		Scala	https://github.com/ergopad/onchain-notifications-service
+ergo_client	soysor	Tooling		Rust	https://github.com/ross-weir/ergo_client
+ergo-easy-oracle	reqlez	Tooling		Dockerfile	https://github.com/reqlez/ergo-easy-oracle
+Plasma	soysor	Tooling		JS/TS	https://github.com/bitdomains/plasma
+ergo-script-re	soysor	Tooling		Rust	https://github.com/ross-weir/ergo-script-re
+NetNotes	networkspore	Tooling		Java	https://github.com/networkspore/Netnotes-Linux
+ergo-offchain	MrStahlfelge	Tooling		Kotlin	https://github.com/MrStahlfelge/ergo-offchain
+ergo-nft-bulk-minter	MGpai	Tooling		Python	https://github.com/mgpai22/ergo-nft-bulk-minter
+ErgoStats		Ecosystem	Paused	Swift	https://github.com/ach2swift/ErgoStats
+"SigmaSubscriptionsManager
+"		Ecosystem	Paused	JS/TS	https://github.com/cornbelt-dev/sigma-subscriptions-manager
+CYTI	haileypdll	Ecosystem, Tooling	Active	JS/TS	https://github.com/ThierryM1212/cyti
+ergo-stealth-address-example	soysor	Tooling		JS/TS	https://github.com/ross-weir/ergo-stealth-address-example
+ogre	soysor	Tooling		JS/TS	https://github.com/ross-weir/ogre
+chain-name-service	soysor	Tooling		Scala	https://github.com/ross-weir/chain-name-service
+ergohack-sidechain	soysor, kushti	Tooling		JS/TS	https://github.com/ross-weir/ergohack-sidechain
+ergo-paper-wallet	"""Allison """	Wallets		JS/TS	https://github.com/anon-br/ergo-paper-wallet
+erg-urlwallet	scalahub	Tooling		Java, Scala	https://github.com/scalahub/erg-urlwallet
+reduced-transactions	zkastn	Tooling		JS/TS	https://github.com/zkastn/reduced-transactions
+txbuilder-service	nirvanush	Tooling		JS/TS	https://github.com/nirvanush/txbuilder-service
+ergopay-frontend-example	MrStahlfelge	Tooling		Java	https://github.com/MrStahlfelge/ergopay-frontend-example
+ergopay-payment-portal	MrStahlfelge	Tooling		Kotlin	https://github.com/MrStahlfelge/ergopay-payment-portal
+ergopay-server-example	MrStahlfelge	Tooling		Java	https://github.com/MrStahlfelge/ergopay-server-example
+ergo_mainnet_p2s_to_testnet_p2s	nitram148	Tooling		Python	https://github.com/nitram147/ergo_mainnet_p2s_to_testnet_p2s
+ErgoWell	mhs, Fateme Rahmani, vorujack	Tooling		JS/TS	https://github.com/mhssamadani/ErgoWell
+indexed-node-explorer	Luivatra	Tooling		JS/TS	https://github.com/Luivatra/indexed-node-explorer
+scorex_crypto_avltree	soysor	Tooling		Rust	https://github.com/knizhnik/scorex_crypto_avltree
+ergotxverify	Zargarzadeh, vorujack	Tooling		Scala	https://github.com/ergopool-io/ergotxverify
+ergo-full-node-raspi	ccgarant	Tooling		Python	"https://github.com/ApexTheory/appkit-by-example"""
+Ergonames	MGpai, lgd, Zack Balbin	Ecosystem	In progress	Scala, JS/TS	https://github.com/ergonames
+ergo-tokenautics	babygrenade	Tooling		Python	https://github.com/babygrenade/ergo-tokenautics
+ergo-reputation-system	jossemii	Ecosystem	In progress		https://github.com/celaut-project/ergo-reputation-system
+fleet-ergo-chained-token-sender	MGpai	Tooling		JS/TS	https://github.com/mgpai22/fleet-ergo-chained-token-sender
+miner-rewarder	MGpai	Tooling		JS/TS	https://github.com/mgpai22/miner-rewarder
+ergo-node-zmqpub	Luivatra	Tooling		Scala	https://github.com/cruxfinance/ergo-node-zmqpub
+ergo-token-list		Tooling			https://github.com/ThierryM1212/ergo-token-minter
+Pratir	Marty	Ecosystem	In progress	JS/TS	https://github.com/ergopad/pratir-frontend
+GuapSwap		Tooling, Ecosystem	Active		https://github.com/GuapSwap
+sigma-builders	lgd	Tooling		Scala	https://github.com/GuapSwap/sigma-builders
+"ErgoUtilsUploadService
+"	"""Allison """	Tooling		C#	https://github.com/arobsn/ErgoUtilsUploadService
+"sigmajs-crypto-facade
+"	"""Allison """	Tooling		JS/TS	https://github.com/arobsn/sigmajs-crypto-facade
+appkit-by-example	ApexTheory	Tooling		Scala	"https://github.com/ApexTheory/appkit-by-example"""
+Ergo Blockchain Scanner	aragogi	Tooling		Scala	https://github.com/aragogi/scanner
+bouncycastle-js	"""Allison "", morphic"	Tooling		JS/TS	https://github.com/aslesarenko/bouncycastle-js
+ergonode-spyder	chriswill	Tooling		C#	https://github.com/chriswill/ergonode-spyder
+ergo-tool	morphic, greenhat, haileypdll, scalahub	Tooling		Scala	https://github.com/ergoplatform/ergo-tool
+Erg0ne	Giufa	Sigmanauts	Active		
+Travala	Glasgow, bez	Integrations	Backburner		
+Okto DeFi Wallet(https://okto.tech/)		Wallets			
+sideshift	Koutelier	Integrations	Awaiting Response		
+"fleet-sdk-sendnft
+"	ladopixel	Tooling		JS/TS	https://github.com/ladopixel/fleet-sdk-sendnft
+fleet-sdk-createtoken	ladopixel	Tooling		JS/TS	https://github.com/ladopixel/fleet-sdk-createtoken
+Spending Proposals		Sigmanauts	Active		
+Sigs Mining Pool					https://github.com/marctheshark3/sigmanaut-mining-pool-ui
+Sigmanauts Mining Pool		Tooling			https://github.com/marctheshark3/sigmanaut-mining-pool-ui/
+Rewards Consolidator		Tooling			https://github.com/mgpai22/ergo-miner-reward-consolidator
+ergo-mining-pool		Tooling			https://github.com/mgpai22/ergo-mining-pool
+Autolykos-GPU-miner		Tooling			https://github.com/mhssamadani/Autolykos-GPU-miner
+		Tooling			https://github.com/mhssamadani/Autolykos2-CPUMiner
+		Tooling			https://github.com/mhssamadani/Autolykos2_AMD_Miner
+		Tooling			https://github.com/mhssamadani/Autolykos2_NV_Miner
+		Tooling			https://github.com/mhssamadani/ergoAMDminer
+		Tooling			https://github.com/mhssamadani/ErgoStratumProxy
+		Tooling			https://github.com/mhssamadani/ErgoStratumServer
+		Tooling			https://github.com/reqlez/ErgoStratumServer
+		Tooling			https://github.com/vorujack/node-stratum-pool
+ergomatic (Machina Finance)	"""Allison "", soysor"	Tooling		JS/TS	https://github.com/nautls/ergomatic
+		Tooling			https://github.com/abchrisxyz/OraclePoolHub
+		Tooling			https://github.com/reqlez/tn-ergo-easy-oracle
+		Tooling			https://github.com/scalahub/OraclePool
+		Tooling			https://github.com/sininen-taivas/ergo-oracle
+		Tooling			https://github.com/thedelphiproject/ergo-oracle-stats-backend
+		Tooling			https://github.com/thedelphiproject/ergo-oracle-tools-js
+ergo-token-minter		Tooling			https://github.com/ThierryM1212/ergo-token-minter
+ergo-token-analysis		Tooling			https://github.com/freeboy0/ergo-token-analysis
+fleet-sdk-burntokens	ladopixel	Tooling		JS/TS	https://github.com/ladopixel/fleet-sdk-burntokens
+ErgoVision.ipynb		Tooling			https://colab.research.google.com/drive/13O_6XEHi7xbjuhzby0s7YGX0rshrClXK?usp=sharing
+SigmaUSD_bank.ipynb		Tooling			https://colab.research.google.com/drive/1iA_PPvWrJGjdpOFYME7W_lQrU4BemaE4?usp=sharing
+ergo-tokenautics		Tooling			https://ergo.watch/
+ergo-status		Tooling			http://ergo-status.net/
+ergo-intelligence		Tooling			https://github.com/Eeysirhc/ergo-intelligence
+tidyergo		Tooling			https://github.com/Eeysirhc/tidyergo
+ergo-analytics		Tooling			https://github.com/gsblabsio/ergo-analytics
+ergo-monitoring		Tooling			https://github.com/SabaunT/ergo-monitoring
+ErgoStats Android		Tooling			https://github.com/sachindayl/ErgoStatsAndroid
+ErgoStats		Tooling			https://github.com/ach2swift/ErgoStats
+Coincarp 	Glasgow	Integrations	Awaiting Response		
+Find more rsERG integrations		Integrations			
+Marketing Group	cannon, Koutelier	Sigmanauts	In progress		
+Facebook & Instagram Management	Glasgow	Sigmanauts	Active		
+Ergohack marketing	Glasgow	Sigmanauts	Done		
+Multisig in JS	c8	Tooling			https://github.com/SavonarolaLabs/multisig-input
+		Tooling			https://github.com/Itaggergaard/Ergo-node-TUI-installer
+ErgoNation					
+.ergoplatform.com/org	kushti	IT Infrastructure			
+.sigmaverse.io	kushti	IT Infrastructure			
+explorer.ergoplatform.org	kushti	IT Infrastructure			
+docs.ergoplatform.org	kushti	IT Infrastructure			
+dexy-test.ergoplatform.org	kushti	IT Infrastructure			
+sigma-admin.ergoplatform.com	kushti	IT Infrastructure			
+api-testnet.ergoplatform.com	kushti	IT Infrastructure			
+testnet.ergoplatform.com	kushti	IT Infrastructure			
+api.ergoplatform.com	kushti	IT Infrastructure			
+Getting Started					
+Twitter KOL Targetting					
+Integrations Outreach					
+Run a competition					
+Community Moderation					
+Social Outreach					
+LinkedIn 					
+Content Contributors Programme					
+Student Outreach Programme					
+Integrations Outreach					
+Integrations Outreach					
+Marketing & Socials					
+ergo-basic-template	twobitEd	Tooling		JS/TS	https://github.com/ERGnomes/ergo-basic-template
+Mew Finance	Aco Smrkas, HQ	Ecosystem	Active		
+					
+Winter Protocol	MGpai	Ecosystem			
+gluon.gold	Bruno, kii, lgd	Ecosystem	Active		
+ChainCash	kushti, Ross Weir	Ecosystem	In progress		
+ogre	Ross Weir	Tooling		TypeScript	https://github.com/ross-weir/ogre
+SigmaJS		SDKs	Active		
+tslib-template	"""Allison """	Tooling		JS/TS	https://github.com/arobsn/tslib-template
