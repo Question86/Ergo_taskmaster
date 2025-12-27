@@ -15,3 +15,7 @@ output a 30-minute, step-by-step checklist that a beginner can follow
 clearly state where the volunteer should publish the result (e.g., GitHub issue/PR, Telegram thread, doc)
 
 The goal is to turn “I want to help” into a concrete contribution with minimal friction, while keeping the model honest about what it can and can’t do.
+
+---
+
+**Note:** The GitHub repository name currently has a typo ("Ergo_tastmaster" instead of "Ergo_taskmaster"). See [REPOSITORY_RENAME_NEEDED.md](./REPOSITORY_RENAME_NEEDED.md) for details on the required fix.
