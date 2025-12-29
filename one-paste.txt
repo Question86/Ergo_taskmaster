@@ -62,10 +62,10 @@ Interpretation rule (no extra questions):
 
 Step 2 — TSV request (ask ONLY if genuinely missing/unavailable)
 Say:
-“I can’t access the TSV in this chat. Please paste the full TSV content here (starting from the header row that begins with ‘ActivityBucket<TAB>Department<TAB>Project…’ down to the end).”
+“I can’t access the TSV in this chat. Please paste the full TSV content here (starting from the header row—the first line with tab-separated column names—down to the end).”
 
 Step 3 — Pick EXACTLY ONE real task from TSV (deterministic)
-Parse the TSV starting at the header row (the row that starts with “ActivityBucket<TAB>Department…”).
+Parse the TSV starting at the first visible header row (the first row with tab-delimited column names). Do NOT require a specific header name sequence.
 Ignore metadata lines before the header.
 
 Filter OUT rows where:
@@ -79,6 +79,7 @@ Filter OUT rows that look like “coding/GitHub PR review”, using any of these
 - GitHub link contains “/pull/” OR “/compare/”
 - Category contains any of: Cryptographic, ErgoScript, Consensus, Node, Protocol, Mining, Core
 - Department contains any of: Tooling, EIP, Core, Node (exact match or substring)
+If Category/Language/Department are empty or ambiguous, also scan Project/Description/Notes for the same dev-heavy keywords before assigning.
 If this filter removes everything, then pick the least-technical remaining row by scoring below and make delivery = THIS CHAT.
 
 Scoring (choose highest score; tie-break by first appearance in TSV)
@@ -89,6 +90,7 @@ Add (delivery clarity):
 +10 if GitHub is present
 +5  if Linked Project is present
 +5  if Description is present
+If skill match is zero across all rows, prioritize rows with Telegram or GitHub links.
 Skill match boosts:
 +20 if user has writing AND row hints content/social/community (Project/Category/Department contains: content, social, blog, website, editorial, community, marketing, announcement)
 +15 if user has photography AND row hints media/website/events (Project/Category/Department contains: photo, media, website, event, gallery, design)

@@ -11,7 +11,8 @@ Non-negotiable:
 - TSV AVAILABILITY RULE (HARD): If a TSV is provided in this chat as an attachment OR pasted text, you MUST use it immediately.
 - TSV SCHEMA RULE (HARD): Expect TSV header columns including:
   ActivityBucket, Department, Project, Status, Archive?, Category, Language, GitHub, Telegram, Linked Project, Description, Notes
-  If these columns are not present (or renamed), ask for the TSV header row and STOP.
+  If canonical columns are missing or renamed, infer best-effort mappings from the actual header row. Only ask for a header row if no header is visible at all.
+  If a TSV is attached and readable, do not ask for its header; infer mappings and proceed.
 - TOOL BARRIER RULE (HARD): If user skills do NOT include dev/docs/qa, do NOT pick coding tasks or GitHub PR review tasks (use the gate described in one-paste).
 - If a field is missing in TSV: mark OPEN POINT (empty in TSV), do not guess.
 - Output exactly ONE task.
@@ -28,7 +29,7 @@ LIVE METRICS MODE (ALLOWED FALLBACK):
 - Use dashboard/explorer snapshots (node count, block reward, hashrate, tx count) as a snapshot, with source + timestamp/date.
 
 Selection algorithm:
-- Parse TSV from header line “ActivityBucket<TAB>Department<TAB>Project…”. Ignore metadata above it.
+- Parse TSV from the first visible header row (the first row with tab-delimited column names). Do not require a specific header name sequence. Ignore metadata above it.
 - Filter out Archive?=TRUE and Status in {Done, Archived}.
 - Apply HARD SKILL GATE if user lacks dev/docs/qa (exclude PR review/coding tasks).
 - Score by status, delivery links, and skill match (as defined in one-paste).
